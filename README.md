@@ -2,11 +2,11 @@
 #### MERN Stack Developer || Reactjs Developer
 ![MERN Stack Developer || Reactjs Developer](https://i.ibb.co/YQWgDNj/mern-stack.png)
 
-Hey this is Md. Minhaz, I read in Honors. I have been connected  with web development for the last 3 years. I  have skills in javascript, react, node, mongodb, firebase, mongoose, netlify, css3, html5, react-bootstrap, tailwind css, heroku . I want to take my career a long way. Looking for a challenging role in a reputed organization to utilize my technical skills.
+Hey this is Md. Minhaz, I read in Honors. I have been connected  with web development for the last 2 years. I  have skills in javascript, react, node, mongodb, firebase, mongoose, netlify, css3, html5, react-bootstrap, tailwind css, heroku . I want to take my career a long way. Looking for a challenging role in a reputed organization to utilize my technical skills.
 
 Skills: JavaScript, React js, Bootstrap, Tailwind CSS, HTML5, CSS3, Node.js, Express.js, Mongoose, Mongodb, Firebase Authentication, Rest API.
 
-- 🔭 I’m currently working on Kart bazar project 
+- 🔭 I’m currently working on Kart bazar project  
 - 🤔 I’m looking for help with as a Mern Stack || React Developer 
 - 📫 How to reach me: minhazpro1@gmail.com 
 
