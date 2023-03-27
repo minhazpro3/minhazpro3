@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md Minhaz
-#### MERN Stack Developer || Reactjs Developer
+#### Front End Developer || MERN Stack
 ![MERN Stack Developer || Reactjs Developer](https://i.ibb.co/YQWgDNj/mern-stack.png)
 
 Hey this is Md. Minhaz, I read in Honors. I have been connected  with web development for the last 2 years. I  have skills in javascript, react, node, mongodb, firebase, mongoose, netlify, css3, html5, react-bootstrap, tailwind css, heroku . I want to take my career a long way. Looking for a challenging role in a reputed organization to utilize my technical skills.
