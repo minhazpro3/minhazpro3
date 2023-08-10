@@ -2,12 +2,12 @@
 ### Junior Web Developer
 
 
-Hey this is Md. Minhaz, I read in Honors. I have been connected  with web development for the last 2 years. I  have skills in javascript, react, node, mongodb, firebase, mongoose, netlify, css3, html5, react-bootstrap, tailwind css, heroku . I want to take my career a long way. Looking for a challenging role in a reputed organization to utilize my technical skills.
+My goal as a Front-End Developer is to create captivating and seamless user interfaces using HTML, CSS, React, Bootstrap, TailwindCss, Next.js. With a strong commitment to providing optimal user experiences, I collaborate with teams, remain current with industry trends, and offer innovative responsive designs that lead to an elevated level of digital interaction.
 
-Skills: JavaScript, React js, Bootstrap, Tailwind CSS, HTML5, CSS3, Node.js, Express.js, Mongoose, Mongodb, Firebase Authentication, Rest API.
+Skills: JavaScript, React js, next.js, TypeScript, Bootstrap, Tailwind CSS, HTML5, CSS3, Node.js, Express.js, Mongoose, Mongodb, Firebase Authentication, Rest API.
 
 - 🔭 I’m currently working on Kart bazar project  
-- 🤔 I’m looking for help with as a Mern Stack || React Developer 
+- I’m looking for a challenge as a Front End developer 
 - 📫 How to reach me: minhazpro1@gmail.com 
 
 
