@@ -1,6 +1,6 @@
-### Hi there 👋, This is Md Minhaz
-#### Junior Web Developer
-![MERN Stack Developer || Reactjs Developer](https://i.ibb.co/YQWgDNj/mern-stack.png)
+## Hi there 👋, This is Md Minhaz
+### Junior Web Developer
+![MERN Stack Developer || Reactjs Developer]([https://i.ibb.co/YQWgDNj/mern-stack.png](https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg))
 
 Hey this is Md. Minhaz, I read in Honors. I have been connected  with web development for the last 2 years. I  have skills in javascript, react, node, mongodb, firebase, mongoose, netlify, css3, html5, react-bootstrap, tailwind css, heroku . I want to take my career a long way. Looking for a challenging role in a reputed organization to utilize my technical skills.
 
